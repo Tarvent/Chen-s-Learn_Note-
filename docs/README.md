@@ -10,5 +10,5 @@
 
 A learning note about Java, JavaScript, AWS, Linux and Code.
 
-URL : https://github.com/Tarvent/Chenduo_LearnNote
+URL : https://tarvent.github.io/Chenduo_LearnNote/#/README
 
