@@ -1,5 +1,3 @@
-
-
 # Chen duo's <small>CS note</small>
 
 > A note to record my learning and researching. 
