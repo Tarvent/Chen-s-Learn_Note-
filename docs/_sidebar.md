@@ -27,7 +27,7 @@
 
 - Atcoder or Leetcode
 
-  - [Java ACM模式](/AtcoderLeetcode/java刷题ACM模式.md)
+  - [Java ACM模式](/AtcoderLeetcode/java刷题acm模式.md)
   - [力扣刷题](/AtcoderLeetcode/Leetcode_Record.md)
 
   
