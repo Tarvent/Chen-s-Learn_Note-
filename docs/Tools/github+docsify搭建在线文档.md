@@ -1,3 +1,7 @@
+# 在线文档搭建
+
+本静态文档简单实现过程.
+
 # 一、docsify使用背景
 
 一个好的开源软件必须要有一个完善的文档才容易被推广，那么我们在如何简单、高效、低成本的搭建一个文档网站呢？今天我们使用Github+docsify来零成本轻松打造一个在线文档系统！
@@ -42,10 +46,6 @@ git clone https://github.com/shelimingming/MJ_mall_doc.git
 docsify init ./docs
 ```
 
-复制
-
-![img](https://static001.geekbang.org/infoq/6b/6bfce77dbeb9a9620511e6b0b34e8b93.png)
-
 会自动生成以下几个文件：
 
 ```javascript
@@ -54,15 +54,11 @@ README.md 会做为主页内容渲染
 .nojekyll 用于阻止 GitHub Pages 会忽略掉下划线开头的文件
 ```
 
-复制
-
 ## 3、本地启动项目
 
 ```javascript
 docsify serve docs
 ```
-
-复制
 
 本地访问http://localhost:3000即可看到文档：
 
@@ -75,8 +71,6 @@ git add ./
 git commit -m "初始化页面"
 git push
 ```
-
-复制
 
 ## 2、设置GitHub Pages
 
