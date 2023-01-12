@@ -4,6 +4,8 @@
 - Tools
   - [github+docsify搭建](/Tools/github+docsify搭建在线文档.md)
   - [七款论文润色工具](/Tools/论文润色工具.md)
+  - [日本語校正ツール](/Tools/日本語校正ツール.md)
+  - [社内WIKIツール](/Tools/社内WIKIツール.md)
   
 - Java 
   - [Java基本](Java/JavaBasic.md)
