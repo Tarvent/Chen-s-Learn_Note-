@@ -1,3 +1,5 @@
+# AWS相关
+
 **WS Cloud Practitioner（简称云从业者认证）：**这是2017年年末的时候才推出的新考试。这门考试是所有考试里面最简单的一门，它主要的对象是那些想初步了解云计算以及亚马逊AWS(Amazon Web Services)内容的人，特别适合那些对AWS一无所知的“小白”以及非IT行业的从业者。它的考试内容包含了云计算概念、安全、技术以及计费和定价，了解了这些内容你除了会对AWS有初步的入门，也能了解业内的大部分云计算的框架。需要注意的是，只有未参加过任何其他AWS等级考试的人员才能参加这门考试。
 
 # **架构师：**
@@ -28,8 +30,3 @@
 
 **AWS Certified Alexa Skill Builder：**适用于从事Amazon Alexa相关工作的个人。推荐具有至少六个月的Alexa 技能设计和构建实践经验、熟练掌握编程语言以及至少发布过一项技能的人员参加 AWS Certified Alexa Skill Builder – Specialty Beta 考试。此认证考试旨在检验应试人员构建、测试、发布和展现 Amazon Alexa 技能的能力。
 
-------
-
-# aws ssa 笔记
-
-## IAM Users & Groups

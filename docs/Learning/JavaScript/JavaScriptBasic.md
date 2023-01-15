@@ -1,3 +1,7 @@
+# JS 入门
+
+JavaScript is a programming language that is commonly used to create interactive and dynamic effects on websites. It is an interpreted, high-level, client-side programming language that is primarily used to make webpages dynamic and interactive. JavaScript code is integrated into an HTML or XHTML document and runs directly in the browser, rather than on a server. This allows for things like form validation, creating cookies, and providing real-time updates without the need for a page refresh. JavaScript is often used in conjunction with other technologies such as HTML and CSS to create complex web pages and web applications. JavaScript is supported by all modern web browsers and is an essential language for web developers to learn.
+
 # 廖雪峰javascript教程
 
 <aside> 👉🏻 https://www.liaoxuefeng.com/wiki/1022910821149312/1023442583285984

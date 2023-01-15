@@ -1,2 +1,16 @@
 * [TOP](/)
+* [Learning note](/Learning/reademe.md)
+  - [JavaScirpt](/Learning/JavaScript/reademe.md)
+  - [Java](/Learning/Java/readme.md)
+  - [Linux](Learning/Linux/reademe.md)
+  - [AWS](Learning/AWS/reademe.md)
+  - [算法]()
+  - [Python](Learning/Python/readme.md)
+* [Code test](AtcoderLeetcode/reademe.md)
+  - [Atcoder](AtcoderLeetcode/Atcoder/reademe.md)
+
+  - [Leetcode](AtcoderLeetcode/Leetcode/reademe.md)
+* [Useful collections](/Tools/reademe.md)
+* [旅行手账](Travel/reademe.md)
 * [About me](/AboutMe.md)
+

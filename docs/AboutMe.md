@@ -1,6 +1,13 @@
-# Welcome to my  note
+---
+typora-copy-images-to: ./images
 
-## I'm Chen Duo(陳鐸)
+---
+
+# Welcome
+
+## I'm Chen Duo
+
+<img src="images/IMG_7804-3815851.jpeg" alt="IMG_7804" style="zoom:7%;" />
 
 A Computer Science Graduate Student
 
