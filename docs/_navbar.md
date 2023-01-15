@@ -6,7 +6,6 @@
   - [AWS](Learning/AWS/reademe.md)
   - [算法]()
   - [Python](Learning/Python/readme.md)
-* [Web security](Web security/xs-leaks.md)
 * [Code test](AtcoderLeetcode/reademe.md)
   - [Atcoder](AtcoderLeetcode/Atcoder/reademe.md)
 

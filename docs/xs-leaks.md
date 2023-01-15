@@ -1,4 +1,4 @@
-# 大学院
+# 硕士研究
 
 # XS-leaks attack through iframe 
 
@@ -114,7 +114,7 @@ var win = window.open("");
 
   6.多数小型的移动设备（PDA 手机）无法完全显示框架，设备兼容性差。
 
-## 开发记录(原声nodejs实现)
+# 开发记录(原生nodejs实现)
 
 攻击者页面内配置乐天旅行的登录界面
 
