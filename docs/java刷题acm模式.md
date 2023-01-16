@@ -1,4 +1,4 @@
-# java 刷题ACM模式
+# Java 刷题ACM模式
 
 # 前言
 

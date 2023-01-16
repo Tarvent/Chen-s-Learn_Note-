@@ -6,10 +6,6 @@
   - [AWS](Learning/AWS/reademe.md)
   - [算法]()
   - [Python](Learning/Python/readme.md)
-* [刷题](AtcoderLeetcode/reademe.md)
-  - [Atcoder](AtcoderLeetcode/Atcoder/reademe.md)
-
-  - [Leetcode](AtcoderLeetcode/Leetcode/reademe.md)
 * [收藏](/Tools/reademe.md)
 * [关于我](/AboutMe.md)
 

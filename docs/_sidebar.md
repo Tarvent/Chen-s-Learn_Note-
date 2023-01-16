@@ -4,3 +4,7 @@
 - 硕士研究XS-Leaks
   
   - [XS-Leaks](xs-leaks.md)
+
+- 刷题
+  - [Java acm处理](java刷题acm模式.md)
+  - [Leetcode刷题记录](Leetcode_Record.md)

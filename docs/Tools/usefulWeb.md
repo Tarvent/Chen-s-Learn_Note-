@@ -15,3 +15,7 @@
 - 轻松入门 Hexo
 
   https://easyhexo.com/
+
+- chatGPT j检测
+
+  https://openai-openai-detector.hf.space/
