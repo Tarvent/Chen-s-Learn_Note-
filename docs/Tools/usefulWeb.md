@@ -11,3 +11,7 @@
 - **Docscify 使用**
 
   https://docsify.tb1043.com/#/?id=%e5%ae%9a%e5%88%b6%e4%be%a7%e8%be%b9%e6%a0%8f
+
+- 轻松入门 Hexo
+
+  https://easyhexo.com/
