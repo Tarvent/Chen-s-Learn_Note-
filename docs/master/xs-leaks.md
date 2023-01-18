@@ -1,5 +1,7 @@
 # Master research
 
+---
+
 # 资源&网页&搜索
 
 [XS-Leaks (Cross-Site Leaks) Attacks and Prevention](https://www.appsecmonkey.com/blog/xs-leaks)

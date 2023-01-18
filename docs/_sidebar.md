@@ -1,14 +1,15 @@
 - Getting started
   - [本文档搭建](README.md)
-  
 - 硕士研究XS-Leaks
   
-  - [XS-Leaks](xs-leaks.md)
-
+  - [XS-Leaks](master/xs-leaks.md)
 - 刷题
-  - [Java acm处理](java刷题acm模式.md)
-  - [Leetcode刷题记录](Leetcode_Record.md)
-
+  - [Java acm处理](Learning/刷题/java刷题acm模式.md)
+  - [Leetcode刷题记录](Learning/刷题/Leetcode_Record.md)
 - web3
-  - [web3技术&工具](web3工具&技术.md)
-  - [web3学习路径&资源](web3学习路径.md)
+  - [web3技术&工具](web3/web3工具&技术.md)
+  - [web3学习路径&资源](web3/web3学习路径.md)
+- 最近学习
+  - [[JavaScirpt](/Learning/JavaScript/reademe.md)](/Learning/JavaScript/JavaScriptBasic.md)
+  - [Java](/Learning/Java/readme.md)
+

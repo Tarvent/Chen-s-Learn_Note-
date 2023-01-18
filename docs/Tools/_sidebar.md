@@ -4,5 +4,6 @@
   - [英语论文润色工具](/Tools/论文润色工具.md)
   - [日本語论文润色工具](/Tools/日本語校正ツール.md)
   - [社内WIKIツール](/Tools/社内WIKIツール.md)
+  - [vscode使用相关](Tools/vscodeUse.md)
 - 网站收藏
   - [useful web page collections](/Tools/usefulWeb.md)
