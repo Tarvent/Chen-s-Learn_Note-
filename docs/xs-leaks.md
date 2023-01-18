@@ -1,4 +1,16 @@
-# 硕士研究
+# Master research
+
+# 资源&网页&搜索
+
+[XS-Leaks (Cross-Site Leaks) Attacks and Prevention](https://www.appsecmonkey.com/blog/xs-leaks)
+
+https://github.com/digininja/DVWA
+
+[ID Attribute](https://xsleaks.dev/docs/attacks/id-attribute/)
+
+https://github.com/xsleaks/xsleaks
+
+[Cross-window communication](https://javascript.info/cross-window-communication)
 
 # XS-leaks attack through iframe 
 

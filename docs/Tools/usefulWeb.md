@@ -19,3 +19,8 @@
 - chatGPT j检测
 
   https://openai-openai-detector.hf.space/
+
+- hexo 主题 butterfly 文档
+
+  https://butterfly.js.org/posts/dc584b87/#Post-Front-matter
+
