@@ -8,3 +8,4 @@
 # 常用网站收藏
 
 - [useful web page collections](/Tools/usefulWeb.md)
+- [vscode使用](Tools/vscodeUse.md)

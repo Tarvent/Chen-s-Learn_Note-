@@ -7,3 +7,4 @@
   - [vscode使用相关](Tools/vscodeUse.md)
 - 网站收藏
   - [useful web page collections](/Tools/usefulWeb.md)
+  - [vscode使用](Tools/vscodeUse.md)
