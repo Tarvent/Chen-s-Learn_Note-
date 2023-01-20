@@ -2,7 +2,7 @@
   - [本文档搭建](README.md)
 - 硕士研究XS-Leaks
   
-  - [XS-Leaks](master/xs-leaks.md)
+  - [XS-Leaks]()
 - 刷题
   - [Java acm处理](Learning/刷题/java刷题acm模式.md)
   - [Leetcode刷题记录](Learning/刷题/Leetcode_Record.md)
