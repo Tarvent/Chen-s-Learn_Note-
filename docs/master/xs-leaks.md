@@ -2,6 +2,10 @@
 
 ---
 
+# background
+
+When browsing the web, none of us want sites to infer which other sites we may have visited before or are logged in to. However, attacker-controlled sites may infer this state through browser side-channels dubbed Cross-Site Leaks (XSLeaks). Although these issues have been known since the 2000s, prior reports mostly found individual instances of issues rather than systematically studying the problem space. Further, actual impact in the wild often remained opaque.
+
 # 资源&网页&搜索
 
 [XS-Leaks (Cross-Site Leaks) Attacks and Prevention](https://www.appsecmonkey.com/blog/xs-leaks)
@@ -665,11 +669,45 @@ console.log(window.length);
 
 
 
+In 2017 two white papers by Heiderich et al. [22] and Vervier et al. [60] summarized the recent threats to browser users. In 2019 Mirheidari et al. [41] showed how Web Cache Deception
+
+(WCD) can lead to caches exposing sensitive data. In 2020 Janc
+
+and West [31] discuss their plans to remove unsafe features and behaviors
+
+from the web platform. Calzavara et al. [8] highlighted how
+
+inconsistent framing policies of websites in the wild can impede
+
+browser security. Narayan et al. [42] proposed changes to the Firefox
+
+source code to mitigate binary exploitation through web-served
+
+passive media, an orthogonal threat besides XS-Leak. Karami et al.
+
+[33] researched how browser extensions can be fingerprinted by
+
+enumeration of its Web Accessible Resources (WARs) and behavior.
+
+Roth et al. [45] revealed the challenges posed to website maintainers
+
+by the complex and ever-developing Content Security Policy
+
+(CSP).
 
 
 
+Mario Heiderich, Alex Inführ, Fabian Fäßler, Nikolei Krein, Masato Kinugawa,
 
+Tsang-Chi Hong, Dario Weißler, and Paula Pustulka. 2017. Cure53’s Browser Security
 
+White Paper. (2017). https://raw.githubusercontent.com/cure53/browsersec-
 
+whitepaper/master/browser-security-whitepaper.pdf
 
+Markus Vervier, Michele Orrù, Berend-Jan Wever, and Eric Sesterhenn. 2017.
+
+Cure53’s Browser Security White Paper. (2017). https://browser-security.x41-
+
+dsec.de/X41-Browser-Security-White-Paper.pdf
 

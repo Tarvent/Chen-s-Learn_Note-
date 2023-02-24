@@ -183,19 +183,25 @@ switch(){
 
 
 
-# DOM
+# DOM（获取HTML）
 
-- 获取元素
-
-​      getElementByld()
+##  getElementByid()
 
 1. 参数 id是大小写敏感的字符串
 2. 返回的是object
+3. id经常可以设置为唯一的
 
-- 获取元素集合
+## getElementsByTagName()
 
-  getElementsByTagName()
+以伪数组形式存储    
 
-  以伪数组形式存储    
+- 父元素的子元素 ‘元素’.getElementsByTagName()
 
-  - 父元素的子元素 ‘元素’.getElementsByTagName()
+## getElementByClass（）
+
+
+
+## querySelectorAll / querySelector
+
+- querySelectorAll 选择所有例如 button, querySelectorAll()[0/1/2等数字选择第几个]
+- querySelector选择第一个

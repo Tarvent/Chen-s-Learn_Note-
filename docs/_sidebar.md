@@ -1,19 +1,18 @@
 - Getting started
   - [本文档搭建](README.md)
-  
+- Latex（论文用）
+  - [Latex攻略](master/LatexUse.md)
 - 刷题
   - [Java acm处理](Learning/刷题/java刷题acm模式.md)
   - [Leetcode刷题记录](Learning/刷题/Leetcode_Record.md)
-  
 - web3
   - [web3技术&工具](web3/web3工具&技术.md)
   - [web3学习路径&资源](web3/web3学习路径.md)
-  
 - 最近学习
   - [[JavaScirpt](/Learning/JavaScript/reademe.md)](/Learning/JavaScript/JavaScriptBasic.md)
   - [Java](/Learning/Java/readme.md)
-  
 - Blog/文档相关
   - [HEXO-Butterfly主题美化](Blog/BLOG美化日记.md)
-  
+- 收藏/工具
+  - [收藏页](Tools/_sidebar.md)
 - [硕士研究XS-Leaks]()
