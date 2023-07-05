@@ -8,17 +8,17 @@ These deployment issues often begin when leadership fails to exert enough upfron
 
 Businesses can enable development, experimentation and scaling of data science and AI solutions with more flexibility and speed than ever through cloud platforms. A design-led [AI](https://devops.com/?s=artificial+intelligence) project that uses the tools available in the cloud can help organizations create business impact and realize ROI much faster. So while the role of data scientist may have been the ‘sexiest job’ in recent years, we may be seeing a new ‘sexiest job’ title emerging: the cloud AI engineer.
 
-## Why do we need a Cloud AI Engineer?
+### Why do we need a Cloud AI Engineer?
 
 Traditionally, a successful AI project in the cloud requires a team with different skills and titles, including data scientists, big data engineers, cloud engineers and full stack developers. This has led businesses to look at ways to merge these specialties into one specific title. Enter the cloud AI engineer who, theoretically, would be able to cover all these duties — including knowledge of and experience with the tools and accelerators that cloud platforms now offer, as well as demonstrated aptitude for fast-paced development in AutoML. These are skills and tasks previously spread out across other areas and roles within the organization.
 
-## What is the Job Description?
+### What is the Job Description?
 
 So what would this job actually look like? The cloud AI engineers of the future will focus on the deployment of AI and ML models at scale in the cloud, and on integrating them with existing products and IT systems. Additionally, cloud AI engineers would need knowledge of the different types of machine-learning algorithms; familiarity with frameworks like Tensorflow and PyTorch; hands-on experience with data processing; analysis and feature selection using analytic tools and ETL/ELT frameworks (Apache Spark, Hive, Amazon, Athena, etc.); and model deployment experience on cloud platforms like AWS, Azure or Google Cloud.
 
 Obviously, tackling all of these would be a huge undertaking for one individual; given the vast workloads on both the cloud and engineering fronts, it isn’t possible to replace these workers and their skills with just a handful of cloud AI engineers. Instead, cloud AI engineers will sit between the two disciplines and the workforces and will serve as a key bridge to easily deploy models and integrate them with enterprise systems and tools for consumption.
 
-## Where are We Going to Find Cloud AI Engineers?
+### Where are We Going to Find Cloud AI Engineers?
 
 Given that cloud AI engineers will have a robust level of responsibility, they will quickly become some of the most sought-after team members — but that also means talent for the role will likely be in short supply.
 
